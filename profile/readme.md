@@ -1,2 +1,1 @@
-[![BCMS](https://user-images.githubusercontent.com/15079459/230768046-91f23573-6a2c-4c2b-b9bf-574c2df3ccc4.jpg)](https://thebcms.com)
-
+[![BCMS](https://user-images.githubusercontent.com/15079459/230768107-4799da0d-756c-46e8-9aee-d61ba8bdf17c.png)](https://thebcms.com)
